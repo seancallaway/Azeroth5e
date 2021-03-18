@@ -1,6 +1,10 @@
 # Azeroth5e
 World of Warcraft for Dungeons and Dragons 5th Edition
 
+## Table of Contents
+
+1. [Races of Azeroth](races/README.md)
+
 ## Legal
 
 ### License
